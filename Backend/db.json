@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Harish R",
+      "salary": "4567890",
+      "company": "JSPIDERS",
+      "id": 1
+    },
+    {
+      "name": "Harish R",
+      "salary": "4567890",
+      "company": "JSPIDERS",
+      "id": 2
+    },
+    {
+      "name": "Madhu",
+      "salary": "20000",
+      "company": "JSPIDER",
+      "id": 3
+    },
+    {
+      "name": "Ram",
+      "salary": "200000",
+      "company": "Wizergos",
+      "id": 4
+    }
+  ]
+}
